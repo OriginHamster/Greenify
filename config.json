@@ -1,0 +1,16 @@
+{
+  "weekdays": {
+    "avg_daily_commits": 1,
+    "minimum_seconds_between_commits": 300,
+    "commit_hour_mu": 21,
+    "commit_hour_sigma": 3,
+    "commit_range": [6, 24]
+  },
+  "weekends": {
+    "avg_daily_commits": 5,
+    "minimum_seconds_between_commits": 300,
+    "commit_hour_mu": 17,
+    "commit_hour_sigma": 3,
+    "commit_range": [11, 26]
+  }
+}
